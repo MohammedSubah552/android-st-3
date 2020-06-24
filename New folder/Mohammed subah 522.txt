@@ -1,0 +1,10 @@
+https://dzone.com/articles/how-to-resolve-most-common-error-in-android-studio
+
+
+https://developer.android.com/reference/java/lang/NullPointerException
+
+
+https://stackoverflow.com/questions/38450717/session-app-error-while-installing-apk
+
+
+
